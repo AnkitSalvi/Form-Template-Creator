@@ -55,12 +55,12 @@ npm install
 or
 yarn install
 
-###Set up environment variables by creating a .env file in the server directory. Add the necessary configurations, such as the database connection string, port, etc.
+### Set up environment variables by creating a .env file in the server directory. Add the necessary configurations, such as the database connection string, port, etc.
 PORT=5000
 DATABASE_URL=your_database_url
 
 
-#$#Running the Client
+### Running the Client
 To start the client application, navigate to the client directory and run:
 
 npm start
@@ -68,7 +68,7 @@ or
 yarn start
 The client will be running on http://localhost:3000.
 
-#$#Running the Server
+### Running the Server
 To start the server application, navigate to the server directory and run:
 
 npm start
@@ -77,14 +77,14 @@ yarn start
 The server will be running on http://localhost:5000.
 
 
-$$$Technologies Used
+### Technologies Used
 Client-side: React, Redux, Axios, Material-UI
 Server-side: Node.js, Express, MongoDB (Mongoose)
 Other Tools: Jest (for testing), ESLint (for code linting)
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
 
-###Fork the project
+### Fork the project
 Create your feature branch (git checkout -b feature/new-feature)
 Commit your changes (git commit -m 'Add new feature')
 Push to the branch (git push origin feature/new-feature)
