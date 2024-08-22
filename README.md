@@ -41,7 +41,7 @@ The client-side code is located in the `client` directory.
 Install the dependencies:
 
 npm install
-# or
+or
 yarn install
 Server
 The server-side code is located in the server directory.
@@ -50,7 +50,7 @@ Navigate to the server directory:
 cd server
 
 npm install
-# or
+or
 yarn install
 Set up environment variables by creating a .env file in the server directory. Add the necessary configurations, such as the database connection string, port, etc.
 
@@ -65,7 +65,7 @@ To start the client application, navigate to the client directory and run:
 bash
 Copy code
 npm start
-# or
+or
 yarn start
 The client will be running on http://localhost:3000.
 
