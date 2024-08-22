@@ -1,0 +1,33 @@
+{
+    "users": [
+      {
+        "id": "41c7d4b6-503c-4648-b998-d5cf73284182",
+        "name": "Ankit Salvi",
+        "email": "ankitsalvi233@gmail.com",
+        "role": "Legal Operations Manager",
+        "password": "123"
+      },
+      {
+        "id": "840e330a-cc84-444f-a210-0e3f515231b4",
+        "name": "chirag-mehta",
+        "email": "chirag-mehta233@gmail.com",
+        "role": "Legal Operations Manager",
+        "password": "qwerty123"
+      },
+      {
+        "id": "4862316c-2bfc-4261-ab43-adcaa5ddb9b0",
+        "name": "manish-agni",
+        "email": "manish-agni@gmail.com",
+        "role": "Legal Operations Manager",
+        "password": "qwerty123"
+      },
+      {
+        "id": "f7435ba9-0792-4309-9a99-6443887d08e1",
+        "name": "addirathod",
+        "email": "addirathod@gmail.com",
+        "role": "Legal Operations Manager",
+        "password": "qwerty123"
+      }
+    ]
+  }
+  

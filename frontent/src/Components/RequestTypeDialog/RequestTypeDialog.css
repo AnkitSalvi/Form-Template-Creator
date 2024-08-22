@@ -1,0 +1,62 @@
+/* src/components/RequestTypeDialog.css */
+
+.request-form-button {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.dialog-title {
+  text-align: center !important;
+  font-weight: bold !important;
+  color: #3f51b5 !important;
+  margin-bottom: 1rem !important;
+}
+
+.form-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
+  padding: 2rem !important;
+  border-radius: 10px !important;
+  background-color: #ffffff !important;
+}
+
+.add-field-button {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+  display: block !important;
+  width: 100% !important;
+  background-color: #3f51b5 !important;
+  color: #ffffff !important;
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+}
+
+.add-field-button:hover {
+  background-color: #303f9f !important;
+}
+
+.custom-field-container {
+  margin-top: 1.5rem !important;
+}
+
+.dialog-content {
+  padding: 1.5rem !important;
+}
+
+.text-field {
+  margin-bottom: 1rem !important;
+}
+
+.card-content {
+  padding: 1rem !important;
+}
+
+.icon-button {
+  margin-top: 1rem !important;
+}
+
+.grid-item {
+  margin-bottom: 1rem !important;
+}

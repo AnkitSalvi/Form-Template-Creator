@@ -1,0 +1,179 @@
+.request-type-list-container {
+  margin-top: 2rem;
+  display: flex !important;
+  flex-direction: column !important;
+  margin-top: 2%;
+  align-items: center !important;
+}
+
+.request-type-list-parent-container {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  margin-top: 5px !important;
+  margin-right: 0 !important;
+  max-width: 9000px !important;
+  height: 100vh !important;
+}
+
+.list-item {
+  padding: 0;
+  margin-bottom: 1rem;
+  width: 500px !important;
+}
+
+.add-request-type-button {
+  /* width: 60% !important; */
+  margin-bottom: 2% !important;
+  margin-top: 2% !important;
+}
+
+.list-item {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.search-textfield .MuiOutlinedInput-root {
+  border-radius: 20px;
+}
+.search-textfield {
+  width: 65% !important;
+  margin-left: 25px !important;
+}
+
+.search-textfield .MuiInputLabel-root {
+  color: #666;
+}
+
+.search-textfield .MuiOutlinedInput-root:hover fieldset {
+  border-color: #e8f3fa;
+}
+
+.search-textfield .MuiOutlinedInput-root.Mui-focused fieldset {
+  border-color: #e8f3fa;
+}
+
+.action-icon {
+  color: #4caf50; /* Icon color */
+  margin-left: 8px;
+}
+
+.action-icon:hover {
+  color: #388e3c; /* Icon color on hover */
+}
+
+.no-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.no-content-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.no-content-text {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  color: #333;
+  font-weight: 500;
+}
+
+@media (max-width: 600px) {
+  .no-content-container {
+    height: auto;
+    padding: 20px;
+  }
+
+  .no-content-text {
+    font-size: 1.2rem;
+  }
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.request-date {
+  color: #888;
+}
+
+.requestor-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.requestor-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.requestor-name {
+  font-weight: bold;
+}
+
+.card-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.assignee-info,
+.due-date-info,
+.priority-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.assignee-tag {
+  display: flex;
+  align-items: center;
+  background-color: #e8f4ff;
+  padding: 4px 8px;
+  border-radius: 16px;
+  margin-top: 4px;
+}
+
+.assignee-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.assignee-name {
+  color: #1976d2;
+  font-weight: bold;
+}
+
+.priority-info .priority-label {
+  display: inline-block;
+  background-color: #ffcccb;
+  color: #d32f2f;
+  border-radius: 12px;
+  padding: 2px 8px;
+  margin-top: 4px;
+}
+
+.card-list {
+  width: 60%;
+}

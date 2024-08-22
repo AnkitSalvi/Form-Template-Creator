@@ -1,0 +1,185 @@
+{
+  "requestTypes": [
+    {
+      "id": "07422dc6-ee75-415f-aceb-100e0b0f53bb",
+      "requestType": "aD",
+      "purpose": "SADS",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [
+        {
+          "label": "dsad",
+          "type": "text",
+          "required": true
+        }
+      ],
+      "createdAt": "2024-08-15T14:11:45.178Z"
+    },
+    {
+      "id": "524aae90-e1ca-4662-a465-80a647c6d3bd",
+      "requestType": "ASDSAD",
+      "purpose": "A",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [
+        {
+          "label": "dsad",
+          "type": "text",
+          "required": true
+        }
+      ],
+      "createdAt": "2024-08-15T14:12:24.260Z"
+    },
+    {
+      "id": "b3375c22-49b7-45f0-944c-34d6882680a9",
+      "requestType": "Testing",
+      "purpose": "sdasd",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-15T14:08:24.318Z"
+    },
+    {
+      "id": "eedac6a3-a7ab-4643-afd5-1ffea1749d55",
+      "requestType": "sdsad",
+      "purpose": "sadasd",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [
+        {
+          "label": "dasdas",
+          "type": "text",
+          "required": true
+        },
+        {
+          "label": "dasd",
+          "type": "text",
+          "required": false
+        },
+        {
+          "label": "Test",
+          "type": "number",
+          "required": true
+        }
+      ],
+      "createdAt": "2024-08-15T14:24:31.798Z"
+    },
+    {
+      "id": "df5f53f2-784a-41c6-8f3b-c8b33e49fdf7",
+      "requestType": "asdasd",
+      "purpose": "sadsadsaSa",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [
+        {
+          "label": "adssa",
+          "type": "number",
+          "required": false
+        }
+      ],
+      "createdAt": "2024-08-15T17:00:27.758Z"
+    },
+    {
+      "id": "6198da98-4365-4908-80bf-b1ee382939e5",
+      "requestType": "Legal Contract",
+      "purpose": "Contract For legal purpose",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [
+        {
+          "label": "Salary",
+          "type": "text",
+          "required": true
+        },
+        {
+          "label": "Duration",
+          "type": "number",
+          "required": true
+        }
+      ],
+      "createdAt": "2024-08-16T06:29:41.690Z"
+    },
+    {
+      "id": "c635ae3b-8e90-49df-ac82-ed0003beef96",
+      "requestType": "Test",
+      "purpose": "sadas",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T06:31:09.338Z"
+    },
+    {
+      "id": "feebc526-0766-49a3-b00c-b5bc3b6fe1d9",
+      "requestType": "Yamu",
+      "purpose": "asdasd",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T06:41:37.910Z"
+    },
+    {
+      "id": "fd0ffcb8-dd2f-437d-a87b-275b0670d284",
+      "requestType": "dasd",
+      "purpose": "sadasd",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T12:13:39.946Z"
+    },
+    {
+      "id": "b9e672ae-6615-4794-afda-ad728274c00b",
+      "requestType": "sdaasd",
+      "purpose": "asdsa",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T12:13:47.683Z"
+    },
+    {
+      "id": "58106a80-5cc3-415b-a73f-2be676da435c",
+      "requestType": "sdas",
+      "purpose": "sadas",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T12:14:00.512Z"
+    },
+    {
+      "id": "82d388b3-0cbb-4c9e-a054-ff33be95617b",
+      "requestType": "Test",
+      "purpose": "dasdsa",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T12:56:07.615Z"
+    },
+    {
+      "id": "cd469bd2-05e2-4332-b805-62a2376de717",
+      "requestType": "Test 1",
+      "purpose": "sadsad",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T14:01:57.258Z"
+    },
+    {
+      "id": "7a2eed26-f2eb-4b14-8ae8-9c2dd5fb4c78",
+      "requestType": "Test 4",
+      "purpose": "adsadasd",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T13:58:58.059Z"
+    },
+    {
+      "id": "ff8f7980-c6fa-422e-83cc-fb32c95e0d30",
+      "requestType": "NDA Request - sales",
+      "purpose": "Request to estabilsh a a sales NDA. This should be completed when confidential information related to sales strategies, pricing, product details, or proprietary business practices needs to be shared. By filling out this form, you ensure that sensitive information is protected, fostering a secure and trustworthy business relationship.",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T13:41:10.395Z"
+    },
+    {
+      "id": "51f23b5a-d200-4213-82ea-af9717c41020",
+      "requestType": "Test 2",
+      "purpose": "asdas",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T14:07:03.206Z"
+    },
+    {
+      "id": "9397d2e5-64ee-48c5-a0ea-bf09b7750460",
+      "requestType": "Test 1",
+      "purpose": "asdsad",
+      "requestTypeOwner": "ankitsalvi233@gmail.com",
+      "informationToCollect": [],
+      "createdAt": "2024-08-16T14:04:34.010Z"
+    }
+  ]
+}
