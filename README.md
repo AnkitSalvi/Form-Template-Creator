@@ -89,14 +89,6 @@ npm start
 yarn start
 The server will be running on http://localhost:5000.
 
-API Documentation
-The API provides endpoints to manage form templates. Below are some of the main routes:
-
-GET /api/templates: Retrieve all form templates.
-POST /api/templates: Create a new form template.
-PUT /api/templates/:id: Update an existing form template.
-DELETE /api/templates/:id: Delete a form template.
-For detailed API documentation, refer to the API Documentation.
 
 Technologies Used
 Client-side: React, Redux, Axios, Material-UI
@@ -113,10 +105,6 @@ Open a pull request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-vbnet
-Copy code
-
-This is a comprehensive `README.md` file that includes all the necessary sections to guide users or contributors on how to set up, run, and contribute to the project. You can further customize it according to the specific needs of your project.
 
 
 
