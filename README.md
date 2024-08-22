@@ -43,7 +43,9 @@ Install the dependencies:
 npm install
 or
 yarn install
-Server
+
+
+### Server
 The server-side code is located in the server directory.
 
 Navigate to the server directory:
@@ -52,48 +54,41 @@ cd server
 npm install
 or
 yarn install
-Set up environment variables by creating a .env file in the server directory. Add the necessary configurations, such as the database connection string, port, etc.
 
-plaintext
-Copy code
+###Set up environment variables by creating a .env file in the server directory. Add the necessary configurations, such as the database connection string, port, etc.
 PORT=5000
 DATABASE_URL=your_database_url
-Usage
-Running the Client
+
+
+#$#Running the Client
 To start the client application, navigate to the client directory and run:
 
-bash
-Copy code
 npm start
 or
 yarn start
 The client will be running on http://localhost:3000.
 
-Running the Server
+#$#Running the Server
 To start the server application, navigate to the server directory and run:
 
-bash
-Copy code
 npm start
 or
 yarn start
 The server will be running on http://localhost:5000.
 
 
-Technologies Used
+$$$Technologies Used
 Client-side: React, Redux, Axios, Material-UI
 Server-side: Node.js, Express, MongoDB (Mongoose)
 Other Tools: Jest (for testing), ESLint (for code linting)
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
 
-Fork the project
+###Fork the project
 Create your feature branch (git checkout -b feature/new-feature)
 Commit your changes (git commit -m 'Add new feature')
 Push to the branch (git push origin feature/new-feature)
 Open a pull request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
