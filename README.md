@@ -37,13 +37,9 @@ Make sure you have the following installed:
 The client-side code is located in the `client` directory.
 
 1. Navigate to the `client` directory:
-
-   ```bash
    cd client
 Install the dependencies:
 
-bash
-Copy code
 npm install
 # or
 yarn install
@@ -51,14 +47,8 @@ Server
 The server-side code is located in the server directory.
 
 Navigate to the server directory:
-
-bash
-Copy code
 cd server
-Install the dependencies:
 
-bash
-Copy code
 npm install
 # or
 yarn install
