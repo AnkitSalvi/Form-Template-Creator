@@ -75,7 +75,7 @@ To start the server application, navigate to the server directory and run:
 bash
 Copy code
 npm start
-# or
+or
 yarn start
 The server will be running on http://localhost:5000.
 
